@@ -1,0 +1,17 @@
+table{
+	width: 40%;
+	height: 40%;
+	background-image: url(bc.jpg);
+	box-shadow: 5px-10px #888888;
+	font-weight: bold;
+}
+table,td,th{
+	border:2px solid #008000;
+	text-align: left;
+	color:yellow;
+}
+.n1{
+	text-align: cenetr;
+	background-color: #ddd;
+	color: black;
+}
